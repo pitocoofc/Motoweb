@@ -1428,5 +1428,20 @@
     "titulo": "77 Massachusetts Avenue, Cambridge, MA, USA",
     "url": "https://www.google.com/maps/place/Massachusetts+Institute+of+Technology/@42.360091,-71.09416,15z/data=!4m5!3m4!1s0x0:0xd0e08ea5b308203c!8m2!3d42.360091!4d-71.09416",
     "ref": "https://www.mit.edu"
+  },
+  {
+    "titulo": "When interfaces become disposable",
+    "url": "https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Is Creativity Dying in the Age of AI-Generated Websites?\n    \n        8 comments",
+    "url": "https://dev.to/ujja/is-creativity-dying-in-the-age-of-ai-generated-websites-5bmi",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Terminals should generate the 256-color palette",
+    "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+    "ref": "https://news.ycombinator.com"
   }
 ]
