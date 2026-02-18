@@ -6,7 +6,7 @@ const app = express();
 let memoriaRAM = [];
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const REPO_OWNER = "pitocoofc";
-const REPO_NAME = "Ndj-lib";
+const REPO_NAME = "Motoweb";
 
 async function salvarNoGithub() {
     if (memoriaRAM.length === 0) return;
