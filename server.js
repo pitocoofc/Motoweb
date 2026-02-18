@@ -4,13 +4,14 @@ const cheerio = require('cheerio');
 const app = express();
 
 let memoriaRAM = [];
+let urlsVistasNaSessao = new Set(); // 🚀 BARREIRA ANTI-CLONE
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const REPO_OWNER = "pitocoofc";
 const REPO_NAME = "Motoweb";
 
 async function salvarNoGithub() {
     if (memoriaRAM.length === 0) return;
-    console.log("📤 Enviando lote para o GitHub...");
+    console.log("📤 Enviando lote limpo para o GitHub...");
     try {
         const urlGit = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/meu_indice2.json`;
         let sha = "";
@@ -22,16 +23,18 @@ async function salvarNoGithub() {
             conteudoExistente = JSON.parse(Buffer.from(res.data.content, 'base64').toString());
         } catch (e) { console.log("Criando novo arquivo de índice."); }
 
+        // Junta com o que já existe, mas mantém as chaves consistentes
         const novoConteudo = [...conteudoExistente, ...memoriaRAM];
         const buffer = Buffer.from(JSON.stringify(novoConteudo, null, 2)).toString('base64');
 
         await axios.put(urlGit, {
-            message: `🔄 Indexação automática: +${memoriaRAM.length} links`,
+            message: `🔄 Indexação limpa: +${memoriaRAM.length} novos links`,
             content: buffer,
             sha: sha
         }, { headers: { Authorization: `token ${GITHUB_TOKEN}` } });
 
-        memoriaRAM = []; 
+        memoriaRAM = []; // Limpa a fila de envio
+        // Nota: Não limpamos o urlsVistasNaSessao para ele não pegar o mesmo link na próxima hora
         console.log("✅ GitHub Atualizado!");
     } catch (err) {
         console.error("❌ Falha no push:", err.response?.data || err.message);
@@ -39,41 +42,45 @@ async function salvarNoGithub() {
 }
 
 async function iniciarRobo() {
-    const sementes = ['https://g1.globo.com', 'https://www.techtudo.com.br'];
+    const sementes = ['https://g1.globo.com', 'https://www.techtudo.com.br', 'https://www.uol.com.br'];
     let primeiraRodada = true;
 
     while (true) {
         try {
-            const url = sementes[Math.floor(Math.random() * sementes.length)];
-            const { data } = await axios.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+            const urlSemente = sementes[Math.floor(Math.random() * sementes.length)];
+            const { data } = await axios.get(urlSemente, { headers: { 'User-Agent': 'Mozilla/5.0' } });
             const $ = cheerio.load(data);
             
+            let novosDestaRodada = 0;
+
             $('a').each((i, el) => {
                 const titulo = $(el).text().trim();
                 const link = $(el).attr('href');
-                if (link?.startsWith('http') && titulo.length > 15) {
-                    memoriaRAM.push({ titulo, url: link, data: new Date() });
+                
+                // 🛡️ SÓ ADICIONA SE FOR NOVIDADE REAL
+                if (link?.startsWith('http') && titulo.length > 20 && !urlsVistasNaSessao.has(link)) {
+                    urlsVistasNaSessao.add(link);
+                    memoriaRAM.push({ titulo, url: link });
+                    novosDestaRodada++;
                 }
             });
 
-            // Se for a primeira vez, envia pro GitHub após 5 segundos
-            if (primeiraRodada) {
-                console.log("🚀 Primeira indexação rápida detectada!");
-                await new Promise(res => setTimeout(res, 5000));
+            console.log(`🔎 Rodada finalizada: ${novosDestaRodada} novos links encontrados.`);
+
+            if (primeiraRodada && memoriaRAM.length > 0) {
+                console.log("🚀 Fazendo primeiro envio rápido...");
                 await salvarNoGithub();
                 primeiraRodada = false;
             }
 
-        } catch (e) { console.log("Erro ao coletar links."); }
+        } catch (e) { console.log("⚠️ Erro ao coletar, tentando novamente em 30s..."); }
         
-        // Modo de espera: 30 segundos entre as coletas para não ser banido dos sites
         await new Promise(res => setTimeout(res, 30000));
     }
 }
 
 iniciarRobo();
-// Salva o acumulado no GitHub a cada 1 hora
-setInterval(salvarNoGithub, 3600000);
+setInterval(salvarNoGithub, 3600000); // Salva de hora em hora
 
-app.get('/', (req, res) => res.send(`Motor Ativo. Links na fila: ${memoriaRAM.length}`));
+app.get('/', (req, res) => res.send(`Motor Ativo. Únicos hoje: ${urlsVistasNaSessao.size} | Na fila para o próximo commit: ${memoriaRAM.length}`));
 app.listen(process.env.PORT || 3000);
