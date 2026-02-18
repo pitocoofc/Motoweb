@@ -12,7 +12,7 @@ async function salvarNoGithub() {
     if (memoriaRAM.length === 0) return;
     console.log("📤 Enviando lote para o GitHub...");
     try {
-        const urlGit = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/meu_indice.json`;
+        const urlGit = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/meu_indice2.json`;
         let sha = "";
         let conteudoExistente = [];
 
