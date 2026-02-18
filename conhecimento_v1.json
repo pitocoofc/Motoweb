@@ -1443,5 +1443,285 @@
     "titulo": "Terminals should generate the 256-color palette",
     "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
     "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "AI can write code in seconds. So why does shipping it still take forever?",
+    "url": "https://dev.to/evgheni_d/the-hidden-cost-of-ai-code-generation-that-nobody-measures-3mfp",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "The Complete Guide to Tech Job Search in 2026 (Tools, Strategy, and Timeline)\n    \n        New",
+    "url": "https://dev.to/matthew_hou_e8ab76d6be07b/the-complete-guide-to-tech-job-search-in-2026-tools-strategy-and-timeline-52pp",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
+    "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Meme Monday\n    \n        28 comments",
+    "url": "https://dev.to/ben/meme-monday-44jk",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Why does 74x138 have 3 EN and why does it have to be 1 EN active high and 2 active low?",
+    "url": "https://electronics.stackexchange.com/questions/765956/why-does-74x138-have-3-en-and-why-does-it-have-to-be-1-en-active-high-and-2-acti",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Where do we stop vetting people in the presidential line of succession for eligibility to be president?",
+    "url": "https://politics.stackexchange.com/questions/94231/where-do-we-stop-vetting-people-in-the-presidential-line-of-succession-for-eligi",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Line of Sight function for a hex-based wargame",
+    "url": "https://codereview.stackexchange.com/questions/301361/line-of-sight-function-for-a-hex-based-wargame",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Wake on LAN stopped working after upgrading packages",
+    "url": "https://askubuntu.com/questions/1564077/wake-on-lan-stopped-working-after-upgrading-packages",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Holding notes and purpose of the arc",
+    "url": "https://music.stackexchange.com/questions/143238/holding-notes-and-purpose-of-the-arc",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Would the Catholic Church excommunicate parents who are otherwise faithful, over only their being credo baptists?",
+    "url": "https://christianity.stackexchange.com/questions/113153/would-the-catholic-church-excommunicate-parents-who-are-otherwise-faithful-over",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "When are Closure nodes necessary in Geometry Nodes compared to Node Groups?",
+    "url": "https://blender.stackexchange.com/questions/345238/when-are-closure-nodes-necessary-in-geometry-nodes-compared-to-node-groups",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Copying only selected cells from QGIS Attribute table",
+    "url": "https://gis.stackexchange.com/questions/500010/copying-only-selected-cells-from-qgis-attribute-table",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Refusing authorship on a paper I consider scientifically unsound",
+    "url": "https://academia.stackexchange.com/questions/225954/refusing-authorship-on-a-paper-i-consider-scientifically-unsound",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What becomes of seized tankers and their oil cargo?",
+    "url": "https://politics.stackexchange.com/questions/94245/what-becomes-of-seized-tankers-and-their-oil-cargo",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "PTIJ: Tim-Tams and Rabbeinu Tam",
+    "url": "https://judaism.stackexchange.com/questions/155118/ptij-tim-tams-and-rabbeinu-tam",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Was \"cope\" as a single-word response commonly used to mean \"deal with it\" pre-internet?",
+    "url": "https://english.stackexchange.com/questions/638997/was-cope-as-a-single-word-response-commonly-used-to-mean-deal-with-it-pre-in",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Arrow not pointing in the correct direction/incorrectly rendered",
+    "url": "https://mathematica.stackexchange.com/questions/318762/arrow-not-pointing-in-the-correct-direction-incorrectly-rendered",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What are the meanings of the columns in the output of lsinitrd?",
+    "url": "https://superuser.com/questions/1934975/what-are-the-meanings-of-the-columns-in-the-output-of-lsinitrd",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Generate random, unique, nonzero integers",
+    "url": "https://tex.stackexchange.com/questions/759851/generate-random-unique-nonzero-integers",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Interpreting Adjective + Noun Phrases Where the Adjective Doesn’t Directly Describe the Noun",
+    "url": "https://ell.stackexchange.com/questions/374023/interpreting-adjective-noun-phrases-where-the-adjective-doesn-t-directly-descr",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Why the races have to restart if someone leaves the starting position before starter pistol signal?",
+    "url": "https://sports.stackexchange.com/questions/30240/why-the-races-have-to-restart-if-someone-leaves-the-starting-position-before-sta",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Is there a way that some devices can share in the local network but not going online?",
+    "url": "https://superuser.com/questions/1935006/is-there-a-way-that-some-devices-can-share-in-the-local-network-but-not-going-on",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Why is there a strange removal of mortar right behind my water heater?",
+    "url": "https://diy.stackexchange.com/questions/329285/why-is-there-a-strange-removal-of-mortar-right-behind-my-water-heater",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Safety of using solder-tinned stranded wires in WAGO Cage Clamp terminal blocks",
+    "url": "https://electronics.stackexchange.com/questions/765908/safety-of-using-solder-tinned-stranded-wires-in-wago-cage-clamp-terminal-blocks",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Employer is not providing me with HR onboarding",
+    "url": "https://workplace.stackexchange.com/questions/203212/employer-is-not-providing-me-with-hr-onboarding",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "`reinterpret_cast` between unrelated structs with the same layout",
+    "url": "https://stackoverflow.com/questions/79890462/reinterpret-cast-between-unrelated-structs-with-the-same-layout",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Is there such thing as \"Fundamental Theorem of Markov Processes\"?",
+    "url": "https://math.stackexchange.com/questions/5124960/is-there-such-thing-as-fundamental-theorem-of-markov-processes",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "uneven commutative diagram",
+    "url": "https://tex.stackexchange.com/questions/759877/uneven-commutative-diagram",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Why two NaNs with the same binary are still not equal to each other but two infs are?",
+    "url": "https://stackoverflow.com/questions/79891117/why-two-nans-with-the-same-binary-are-still-not-equal-to-each-other-but-two-infs",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Can commit messages include volatile information?",
+    "url": "https://softwareengineering.stackexchange.com/questions/460870/can-commit-messages-include-volatile-information",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Can we run out of PNR codes?",
+    "url": "https://travel.stackexchange.com/questions/203296/can-we-run-out-of-pnr-codes",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Is it possible to turn hydrogen gas into a liquid using a home set up?",
+    "url": "https://physics.stackexchange.com/questions/869319/is-it-possible-to-turn-hydrogen-gas-into-a-liquid-using-a-home-set-up",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Why can we add up the internal energy of a moving gas and its kinetic energy due to flow velocity?",
+    "url": "https://physics.stackexchange.com/questions/869260/why-can-we-add-up-the-internal-energy-of-a-moving-gas-and-its-kinetic-energy-due",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What model of minicomputers appears in “Magnum cop” (1978)?",
+    "url": "https://retrocomputing.stackexchange.com/questions/32475/what-model-of-minicomputers-appears-in-magnum-cop-1978",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Create and verify a large single file in parallel-mode",
+    "url": "https://unix.stackexchange.com/questions/804535/create-and-verify-a-large-single-file-in-parallel-mode",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "How to deal with a programmer who acts as a proxy for AI?",
+    "url": "https://softwareengineering.stackexchange.com/questions/460875/how-to-deal-with-a-programmer-who-acts-as-a-proxy-for-ai",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Who's the first adult woman protagonist to involuntarily go to another universe / reality / world?",
+    "url": "https://scifi.stackexchange.com/questions/303308/whos-the-first-adult-woman-protagonist-to-involuntarily-go-to-another-universe",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Selecting clients where they have one feature type but not another using ArcGIS Pro",
+    "url": "https://gis.stackexchange.com/questions/499999/selecting-clients-where-they-have-one-feature-type-but-not-another-using-arcgis",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Korean action film involving a garage elevator and men in suits with knives",
+    "url": "https://movies.stackexchange.com/questions/131473/korean-action-film-involving-a-garage-elevator-and-men-in-suits-with-knives",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Lightweight e-mail client for unsupported Windows versions",
+    "url": "https://retrocomputing.stackexchange.com/questions/32478/lightweight-e-mail-client-for-unsupported-windows-versions",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "How do I encourage more interaction with Fate's mechanics?",
+    "url": "https://rpg.stackexchange.com/questions/218799/how-do-i-encourage-more-interaction-with-fates-mechanics",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Identify this IC's manufacturer logo with stylised 'm'",
+    "url": "https://electronics.stackexchange.com/questions/765927/identify-this-ics-manufacturer-logo-with-stylised-m",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What does \"correlated data\" mean?",
+    "url": "https://stats.stackexchange.com/questions/674833/what-does-correlated-data-mean",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Guess the PIN. You only got one shot!",
+    "url": "https://puzzling.stackexchange.com/questions/137099/guess-the-pin-you-only-got-one-shot",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What exactly was the serpent's motivation to deceive Eve?",
+    "url": "https://christianity.stackexchange.com/questions/113157/what-exactly-was-the-serpents-motivation-to-deceive-eve",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What is the best way for a 19th century equivalent society transport high amounts of fat on expeditions into large cave systems",
+    "url": "https://worldbuilding.stackexchange.com/questions/272700/what-is-the-best-way-for-a-19th-century-equivalent-society-transport-high-amount",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Sicilian Defense Yates Variation straight up hangs a piece",
+    "url": "https://chess.stackexchange.com/questions/47657/sicilian-defense-yates-variation-straight-up-hangs-a-piece",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Modeling a curved boombox body with clean topology for speaker holes",
+    "url": "https://blender.stackexchange.com/questions/345236/modeling-a-curved-boombox-body-with-clean-topology-for-speaker-holes",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Video Temporal Segmentation for Vision Language Model Processing",
+    "url": "https://codereview.stackexchange.com/questions/301365/video-temporal-segmentation-for-vision-language-model-processing",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "How to wash produce to remove pathogens (including fecal-contamination)",
+    "url": "https://cooking.stackexchange.com/questions/136731/how-to-wash-produce-to-remove-pathogens-including-fecal-contamination",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Some books recommendation by which I can know about what's happening in current mathematics research in Pure mathematics?",
+    "url": "https://mathoverflow.net/questions/508141/some-books-recommendation-by-which-i-can-know-about-whats-happening-in-current",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Recurrence functional inequality",
+    "url": "https://mathoverflow.net/questions/508269/recurrence-functional-inequality",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Defendant pleaded not guilty, but lawyer did nothing",
+    "url": "https://law.stackexchange.com/questions/114184/defendant-pleaded-not-guilty-but-lawyer-did-nothing",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What does \"crown\" symbolise in \"the crown of righteousness\" 2 Timothy 4:8?",
+    "url": "https://hermeneutics.stackexchange.com/questions/114806/what-does-crown-symbolise-in-the-crown-of-righteousness-2-timothy-48",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Episode of an anime about a witch or magic girl in high school named Kurumi, who starts crying and herself turns into a baby",
+    "url": "https://scifi.stackexchange.com/questions/303325/episode-of-an-anime-about-a-witch-or-magic-girl-in-high-school-named-kurumi-who",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Dragon Adventure cards interaction with Acolyte of Bahamut",
+    "url": "https://boardgames.stackexchange.com/questions/64401/dragon-adventure-cards-interaction-with-acolyte-of-bahamut",
+    "ref": "https://stackoverflow.com"
   }
 ]
