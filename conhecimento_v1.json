@@ -528,5 +528,905 @@
     "titulo": "Report Copyright Infringement",
     "url": "https://www.harvard.edu/copyright-issue/",
     "ref": "https://www.harvard.edu"
+  },
+  {
+    "titulo": "other Wikipedias are available",
+    "url": "https://meta.wikimedia.org/wiki/List_of_Wikipedias",
+    "ref": "https://en.wikipedia.org"
+  },
+  {
+    "titulo": "https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1336841542",
+    "url": "https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=1336841542",
+    "ref": "https://en.wikipedia.org"
+  },
+  {
+    "titulo": "गोंयची कोंकणी / Gõychi Konknni",
+    "url": "https://gom.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%87%E0%A4%B2_%E0%A4%AA%E0%A4%BE%E0%A4%A8",
+    "ref": "https://en.wikipedia.org"
+  },
+  {
+    "titulo": "Srpskohrvatski / српскохрватски",
+    "url": "https://sh.wikipedia.org/wiki/Glavna_stranica",
+    "ref": "https://en.wikipedia.org"
+  },
+  {
+    "titulo": "Wikimedia Foundation, Inc.",
+    "url": "https://wikimediafoundation.org/",
+    "ref": "https://en.wikipedia.org"
+  },
+  {
+    "titulo": "Powered by Algolia\n                Search",
+    "url": "https://www.algolia.com/developers/?utm_source=devto&utm_medium=referral",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "mlh-logo-color-dark\n      \n      MLH",
+    "url": "https://mlh.io/",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)      Ben Halpern for The DEV Team ・ Feb 18              #news        #devto        #hackathon        #discuss",
+    "url": "https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd?bb=261474",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)",
+    "url": "https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "If You See These Red Flags in an IT Interview — Run (Real Stories)",
+    "url": "https://dev.to/sylwia-lask/if-you-see-these-red-flags-in-an-it-interview-run-real-stories-4am7",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
+    "url": "https://dev.to/mlh/the-future-of-software-has-a-lot-more-builders-theyre-going-to-need-a-home-1k65",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
+    "url": "https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
+    "url": "https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)",
+    "url": "https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
+    "url": "https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
+    "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
+    "url": "https://dev.to/ingosteinke/if-writing-still-matters-how-to-do-it-right-and-avoid-ai-suspicion-2nac",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "The Foundation Update: From Theory to Working Federation",
+    "url": "https://dev.to/the-foundation/the-foundation-update-from-theory-to-working-federation-2ejm",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "I’ve Seen This Architecture Before. It Ends in Tears.",
+    "url": "https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Can you order a pizza on my site? ❌ 99% Can't 😤",
+    "url": "https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "I'm Done With Magic. Here's What I Built Instead.",
+    "url": "https://dev.to/iceonfire/im-done-with-magic-heres-what-i-built-instead-988",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Cloudflare Bot Fight Mode Breaks Zapier OAuth (And How to Fix It)",
+    "url": "https://dev.to/anand_rathnas_d5b608cc3de/cloudflare-bot-fight-mode-breaks-zapier-oauth-and-how-to-fix-it-2429",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Build a Container from Scratch in Go (Modern Namespaces + cgroup v2)",
+    "url": "https://dev.to/faizanfirdousi/build-a-container-from-scratch-in-go-modern-namespaces-cgroup-v2-5556",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "A CI tool that stops AI from undoing your team's architectural decisions",
+    "url": "https://dev.to/stewartjarod/a-ci-tool-that-stops-ai-from-undoing-your-teams-architectural-decisions-1e32",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Every AI Agent Framework Trusts the Agent. That's the Problem.",
+    "url": "https://dev.to/saezbaldo/every-ai-agent-framework-trusts-the-agent-thats-the-problem-5gfa",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "[2 more days] Win All-Access Pass to NVIDIA GTC 2026 🎫",
+    "url": "https://dev.to/googleai/2-more-days-win-all-access-pass-to-nvidia-gtc-2026-2inl",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Fireside Chat with DEV and MLH Founders",
+    "url": "https://dev.to/events/mlh-fireside-chat/february-19-2026?bb=261432",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Google Cloud Live: Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
+    "url": "https://dev.to/events/google-cloud-live/february-17-2026?bb=261432",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "AI Can Write Your Resume. Here's Why That's a Terrible Idea (And What to Do Instead)\n    \n        New",
+    "url": "https://dev.to/matthew_hou_e8ab76d6be07b/ai-can-write-your-resume-heres-why-thats-a-terrible-idea-and-what-to-do-instead-40i4",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Why Your Node.js App Is Fast Locally but Slow in Production\n    \n        New",
+    "url": "https://dev.to/speaklouder/why-your-nodejs-app-is-fast-locally-but-slow-in-production-2j1k",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Secret Sauce: A Dev Community Potluck\n    \n        2 comments",
+    "url": "https://dev.to/austinwdigital/secret-sauce-a-dev-community-potluck-2h3g",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Stack Internal\n\t\t\t\t\t\t\tImplement a knowledge platform layer to power your enterprise and AI tools.",
+    "url": "https://stackoverflow.co/internal/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=stack-overflow-for-teams",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Stack Data Licensing\n\t\t\t\t\t\t\tGet access to top-class technical expertise with trusted & attributed content.",
+    "url": "https://stackoverflow.co/data-licensing/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=overflow-api",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Stack Ads\n\t\t\t\t\t\t\tConnect your brand to the world’s most trusted technologist communities.",
+    "url": "https://stackoverflow.co/advertising/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=stack-overflow-advertising",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Releases\n\t\t\t\t\t\t\tKeep up-to-date on features we add to Stack Overflow and Stack Internal.",
+    "url": "https://stackoverflow.blog/releases/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=releases",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "more stack exchange communities",
+    "url": "https://stackexchange.com/sites",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Data is the new oil, and your database is the only way to extract it",
+    "url": "https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "All users on Stack Exchange can now participate in chat",
+    "url": "https://meta.stackexchange.com/questions/417109/all-users-on-stack-exchange-can-now-participate-in-chat",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Logo updates to Stack Overflow's visual identity",
+    "url": "https://meta.stackexchange.com/questions/417394/logo-updates-to-stack-overflows-visual-identity",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Policy: Generative AI (e.g., ChatGPT) is banned",
+    "url": "https://meta.stackoverflow.com/questions/421831/policy-generative-ai-e-g-chatgpt-is-banned",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Starting February 24, 2026: check out our new site design at...",
+    "url": "https://meta.stackoverflow.com/questions/438177/starting-february-24-2026-check-out-our-new-site-design-at-beta-stackoverflow",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "How can I traverse to the bottom of a folder structure that repeated 23k times?",
+    "url": "https://superuser.com/questions/1934923/how-can-i-traverse-to-the-bottom-of-a-folder-structure-that-repeated-23k-times",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Is \"Spider-Man is a good movie\" an unfalsifiable statement?",
+    "url": "https://philosophy.stackexchange.com/questions/136376/is-spider-man-is-a-good-movie-an-unfalsifiable-statement",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What's the purpose of the output circuitry the LM2596 typical application schematics?",
+    "url": "https://electronics.stackexchange.com/questions/765969/whats-the-purpose-of-the-output-circuitry-the-lm2596-typical-application-schema",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Giving prizes for not being late to school",
+    "url": "https://parenting.stackexchange.com/questions/46865/giving-prizes-for-not-being-late-to-school",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Trying to figure out a function in set theory formally",
+    "url": "https://math.stackexchange.com/questions/5125103/trying-to-figure-out-a-function-in-set-theory-formally",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What are the consequences of mass murder?",
+    "url": "https://gaming.stackexchange.com/questions/417862/what-are-the-consequences-of-mass-murder",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "How do different prepositions affect meaning when adding an adjective to \"Je suis venu en voiture\"?",
+    "url": "https://french.stackexchange.com/questions/58695/how-do-different-prepositions-affect-meaning-when-adding-an-adjective-to-je-sui",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What's the best explanation that E# is not the same as F?",
+    "url": "https://music.stackexchange.com/questions/143223/whats-the-best-explanation-that-e-is-not-the-same-as-f",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Identify tv episode, everyone's got a brain chip - except one man who ultimately must destroy it",
+    "url": "https://scifi.stackexchange.com/questions/303324/identify-tv-episode-everyones-got-a-brain-chip-except-one-man-who-ultimately",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Does the Airbus really lack control feel?",
+    "url": "https://aviation.stackexchange.com/questions/114970/does-the-airbus-really-lack-control-feel",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What are the visual tells of wands?",
+    "url": "https://gaming.stackexchange.com/questions/417867/what-are-the-visual-tells-of-wands",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "PTIJ: What is the significance of the term Shoe-Shine Purim?",
+    "url": "https://judaism.stackexchange.com/questions/155160/ptij-what-is-the-significance-of-the-term-shoe-shine-purim",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "PTIJ: Need help picking a topic for a halacha shiur",
+    "url": "https://judaism.stackexchange.com/questions/155163/ptij-need-help-picking-a-topic-for-a-halacha-shiur",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Supporting via direct payments vs. via subsidies",
+    "url": "https://politics.stackexchange.com/questions/94237/supporting-via-direct-payments-vs-via-subsidies",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Wrap a leafy plant onto a dodecahedron",
+    "url": "https://puzzling.stackexchange.com/questions/137104/wrap-a-leafy-plant-onto-a-dodecahedron",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "How do we incentivize breadth in mathematics? Should we?",
+    "url": "https://mathoverflow.net/questions/508179/how-do-we-incentivize-breadth-in-mathematics-should-we",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Authorship decision for substantial writing assistance",
+    "url": "https://academia.stackexchange.com/questions/225985/authorship-decision-for-substantial-writing-assistance",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "A Holiday to Remember... #05: Whatever Floats Your Boat",
+    "url": "https://puzzling.stackexchange.com/questions/137106/a-holiday-to-remember-05-whatever-floats-your-boat",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "How can I generate sequential numbers per group safely under concurrent inserts in SQL Server?",
+    "url": "https://dba.stackexchange.com/questions/349798/how-can-i-generate-sequential-numbers-per-group-safely-under-concurrent-inserts",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What to do when there are multiple descriptions or definitions of the same mathematical object?",
+    "url": "https://matheducators.stackexchange.com/questions/30063/what-to-do-when-there-are-multiple-descriptions-or-definitions-of-the-same-mathe",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Seeming inconsistency between methods in derivation of equations for physical pendulum",
+    "url": "https://physics.stackexchange.com/questions/869310/seeming-inconsistency-between-methods-in-derivation-of-equations-for-physical-pe",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What circumstances could make kidnapping and murder of Nancy Guthrie a federal crime?",
+    "url": "https://law.stackexchange.com/questions/114174/what-circumstances-could-make-kidnapping-and-murder-of-nancy-guthrie-a-federal-c",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Is \"naturalism of the gaps\" a fallacy acknowledged by philosophers, just like \"God of the gaps\" usually is?",
+    "url": "https://philosophy.stackexchange.com/questions/136323/is-naturalism-of-the-gaps-a-fallacy-acknowledged-by-philosophers-just-like-g",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Accepting a maths postdoc position at a low-rank university",
+    "url": "https://academia.stackexchange.com/questions/225991/accepting-a-maths-postdoc-position-at-a-low-rank-university",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Escolas, Faculdades e Institutos",
+    "url": "https://www5.usp.br/institucional/escolas-faculdades-e-institutos/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Superintendência de Comunicação Social",
+    "url": "https://jornal.usp.br/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Superintendência do Espaço Físico",
+    "url": "http://www.sef.usp.br/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Superintendência de Gestão Ambiental",
+    "url": "http://www.sga.usp.br/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Superintendência de Prevenção e Proteção Universitária",
+    "url": "http://www.sppu.usp.br/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Superintendência de Relações Institucionais",
+    "url": "http://www.reitoria.usp.br/?page_id=356",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Superintendência de Tecnologia da Informação",
+    "url": "http://www.sti.usp.br/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Campus de São Paulo – Capital",
+    "url": "http://www.puspc.usp.br/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Quadrilátero da Saúde/Direito",
+    "url": "http://www.puspqsd.usp.br/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Coordenador executivo do Gabinete do Reitor",
+    "url": "https://www5.usp.br/reitoria-2/coordenador-executivo-do-gabinete-do-reitor/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Pró-reitor de Pós-Graduação",
+    "url": "https://www5.usp.br/reitoria-2/pro-reitor-de-pos-graduacao/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Pró-reitor de Pesquisa e Inovação",
+    "url": "https://www5.usp.br/reitoria-2/pro-reitor-de-pesquisa/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Pró-reitor de Cultura e Extensão Universitária [pro tempore]",
+    "url": "https://www5.usp.br/reitoria-2/pro-reitora-de-cultura-e-extensao-universitaria/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Pró-reitora de Inclusão e Pertencimento",
+    "url": "https://www5.usp.br/reitoria-2/pro-reitoria-de-inclusao-e-pertencimento/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Agência USP de Cooperação Acadêmica Nacional e Internacional",
+    "url": "http://www.usp.br/internationaloffice/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Agência de Bibliotecas e Coleções Digitais (ABCD-USP)",
+    "url": "https://www.abcd.usp.br/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Centro de Inovação InovaUSP",
+    "url": "https://inova.usp.br/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Coordenadoria de Administração Geral (Codage)",
+    "url": "http://www.usp.br/codage/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Escritório de Gestão de Indicadores de Desempenho Acadêmico (Egida)",
+    "url": "https://egida.usp.br/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Cursos e atividades de extensão",
+    "url": "https://www5.usp.br/extensao/cursos-de-extensao/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "“Manual do Calouro” apresenta a USP aos novos ingressantes",
+    "url": "https://jornal.usp.br/universidade/manual-do-calouro-apresenta-a-usp-aos-novos-ingressantes/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Fuvest e Enem-USP: 2ª chamada",
+    "url": "https://jornal.usp.br/universidade/fuvest-e-enem-usp-confira-a-lista-de-aprovados-em-2a-chamada",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Provão Paulista: 3ª chamada",
+    "url": "https://jornal.usp.br/universidade/provao-paulista-confira-a-terceira-lista-de-aprovados-para-a-usp",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Provão Paulista: 2ª chamada",
+    "url": "https://jornal.usp.br/universidade/provao-paulista-divulga-segunda-chamada-de-aprovados-para-ingresso-na-usp",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Provão Paulista: 1ª chamada",
+    "url": "https://jornal.usp.br/universidade/provao-paulista-divulga-lista-de-primeira-chamada-de-aprovados-na-usp/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Objetivos Estratégicos da USP",
+    "url": "https://www5.usp.br/objetivos-estrategicos-da-usp/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Informações sobre o ingresso na graduação 2026",
+    "url": "https://www5.usp.br/ensino/graduacao/graduacao-ingresso-2023/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Portal de Livros Abertos USP",
+    "url": "http://www.livrosabertos.sibi.usp.br/portaldelivrosUSP",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Libraries and online collections",
+    "url": "https://www5.usp.br/english/research",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Institutes, colleges and schools",
+    "url": "https://www5.usp.br/english/institutional/escolas-faculdades-e-institutos-2/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Knowledge of the structure of the Ohr enzyme paves the way for drug development",
+    "url": "https://www5.usp.br/news/knowledge-of-the-structure-of-the-ohr-enzyme-paves-the-way-for-drug-development/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Genetic modifications after bariatric surgery render individuals healthier",
+    "url": "https://www5.usp.br/news/genetic-modifications-after-bariatric-surgery-render-individuals-healthier-gene-expression/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "Liver transplant success draws attention to procedures of this type during the pandemic",
+    "url": "https://www5.usp.br/news/liver-transplant-success-draws-attention-to-procedures-of-this-type-during-the-pandemic/",
+    "ref": "https://www.usp.br"
+  },
+  {
+    "titulo": "After 2 years of AI-assisted coding, I automated the one thing that actually improved quality: AI...\n    \n        8 comments",
+    "url": "https://dev.to/yw1975/after-2-years-of-ai-assisted-coding-i-automated-the-one-thing-that-actually-improved-quality-ai-2njh",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Universidade Federal de Minas Gerais",
+    "url": "https://www.ufmg.br/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Órgãos de Deliberação Superior e Fiscalização Econômico-Financeira",
+    "url": "https://www.ufmg.br/a-universidade/estrutura-organizacional/orgaos-de-deliberacao-superior-e-fiscalizacao-economico-financeira/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Órgãos da Administração Superior",
+    "url": "https://www.ufmg.br/a-universidade/estrutura-organizacional/orgaos-da-administracao-superior/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Unidades de Ensino, Pesquisa e Extensão",
+    "url": "https://www.ufmg.br/a-universidade/estrutura-organizacional/unidades-de-ensino-pesquisa-e-extensao/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Eixos Transversais de Gestão",
+    "url": "https://www.ufmg.br/a-universidade/gestao/eixos-transversais-de-gestao/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Convênios e Transferências",
+    "url": "https://www.ufmg.br/acesso-a-informacao/convenios-e-transferencias/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Serviço de Informação ao Cidadão (SIC)",
+    "url": "https://www.ufmg.br/acesso-a-informacao/servico-de-informacao-ao-cidadao/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Educação Básica e Profissional (Ebap)",
+    "url": "https://www.ufmg.br/cursos/estude-na-ufmg/educacao-basica-e-profissional-ebap/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Educação Básica e Profissional (Ebap)",
+    "url": "https://www.ufmg.br/cursos/formas-de-ingresso/ingresso-na-educacao-basica-e-profissional/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Normas Gerais da Graduação",
+    "url": "https://www.ufmg.br/vida-academica/dicas-academicas/normas-gerais-da-graduacao/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Entenda seu Percurso Curricular",
+    "url": "https://www.ufmg.br/vida-academica/dicas-academicas/entenda-seu-percurso-curricular/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Programas de Ações Afirmativas",
+    "url": "https://www.ufmg.br/vida-academica/diversidade-e-inclusao/programa-de-acoes-afirmativas/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Oportunidades para Formação",
+    "url": "https://www.ufmg.br/vida-academica/oportunidades-para-formacao/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Diplomas e Trajetórias Futuras",
+    "url": "https://www.ufmg.br/vida-academica/diplomas-e-trajetorias-futuras/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Pesquisadores e Produção Científica",
+    "url": "https://www.ufmg.br//pesquisa-e-inovacao/pesquisadores-e-producao-cientifica/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Indicadores de Produção Científica",
+    "url": "https://www.ufmg.br/pesquisa-e-inovacao/pesquisadores-e-producao-cientifica/indicadores-de-producao-cientifica/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Patente e Transferência Tecnológica",
+    "url": "https://www.ufmg.br/pesquisa-e-inovacao/patente-e-transferencia-tecnologica/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Extensão no Percurso Acadêmico",
+    "url": "https://www.ufmg.br/extensao/extensao-no-percurso-academico/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Museus e Espaços Culturais",
+    "url": "https://www.ufmg.br/culturaportalufmg/museus-e-espacos-culturais/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Política de Comunicação da UFMG",
+    "url": "https://www.ufmg.br/comunicacao/politica-de-comunicacao-da-ufmg/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Manual de Relacionamento com a Imprensa",
+    "url": "https://www.ufmg.br/comunicacao/manual-de-relacionamento-com-a-imprensa/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Diretrizes para redes sociais",
+    "url": "https://www.ufmg.br/comunicacao/redes-sociais/diretrizes-de-redes-sociais/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Gestão de sites institucionais",
+    "url": "https://www.ufmg.br/comunicacao/gestao-de-sites-institucionais/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Programe-se\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tUFMG aprova calendário escolar de 2026\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tPrincipais procedimentos e datas da rotina acadêmica estão estabelecidos em resolução do Cepe",
+    "url": "https://www.ufmg.br/comunicacao/noticias/institucional/calendario-escolar-de-2026-da-ufmg-e-aprovado/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Ecologia Urbana\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tPesquisa mapeia quantidade e diversidade de aves em Belo Horizonte\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tEstudo que deriva de tese de doutorado desenvolvida no ICB pode ajudar no manejo das áreas verdes e na conservação das espécies",
+    "url": "https://www.ufmg.br/comunicacao/noticias/pesquisa-e-inovacao/pesquisa-mapeia-quantidade-e-diversidade-de-aves-em-belo-horizonte/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Transporte gratuito\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tConheça os itinerários e horários dos ônibus que circulam no campus Pampulha e nas imediações\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLinhas 2 e 3 operam durante as férias acadêmicas",
+    "url": "https://www.ufmg.br/transporte/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "FUMP \n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tCampanha Permanecer\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tVocê também pode contribuir para ampliar o acesso à assistência estudantil na UFMG",
+    "url": "https://fump.ufmg.br/noticia/fump-lanca-a-campanha-permanecer/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Pesquisadores e Produção Científica",
+    "url": "https://www.ufmg.br/pesquisa-e-inovacao/pesquisadores-e-producao-cientifica",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Extensão no Percurso Acadêmico",
+    "url": "https://www.ufmg.br/extensao/extensao-no-percurso-academico",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Conheça mais números da UFMG",
+    "url": "https://www.ufmg.br/egdi/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Educação Básica e Profissional",
+    "url": "https://www.ufmg.br/cursos/estude-na-ufmg/educacao-basica-e-profissional-ebap",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "13\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tfev\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tO ‘segredo bem guardado’ de Isabel Moreira em exposição no Centro Cultural\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t13 de fevereiro a 23 de março\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t•\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t19h",
+    "url": "https://www.ufmg.br/comunicacao/eventos/evento-cultural/o-segredo-bem-guardado-de-isabel-moreira-em-exposicao-no-centro-cultural/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Cursos\t\t\t\n\t\t\t\n\t\t\t\tDepartamento de Engenharia Elétrica recebe inscrições para especialização em fontes renováveis de energia\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t01 de dezembro a 27 de fevereiro",
+    "url": "https://www.ufmg.br/comunicacao/eventos/cursos/departamento-de-engenharia-eletrica-recebe-inscricoes-para-especializacao-em-fontes-renovaveis-de-energia/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Cursos\t\t\t\n\t\t\t\n\t\t\t\tFale tem inscrições abertas para curso sobre leitura e recepção teatral\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t07 de janeiro a 30 de março",
+    "url": "https://www.ufmg.br/comunicacao/eventos/cursos/fale-tem-inscricoes-abertas-para-curso-sobre-leitura-e-recepcao-teatral/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Evento Cultural\t\t\t\n\t\t\t\n\t\t\t\tExposição no Espaço do Conhecimento reúne histórias das relações migratórias entre Brasil e China\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t09 de janeiro a 15 de março",
+    "url": "https://www.ufmg.br/comunicacao/eventos/evento-cultural/exposicao-no-espaco-do-conhecimento-reune-historias-das-relacoes-migratorias-entre-brasil-e-china/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Cursos\t\t\t\n\t\t\t\n\t\t\t\tAprendizado de máquinas é tema de curso on-line oferecido pelo Departamento de Estatística\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t19 de fevereiro a 06 de maio",
+    "url": "https://www.ufmg.br/comunicacao/eventos/cursos/aprendizado-de-maquinas-e-tema-de-curso-on-line-oferecido-pelo-departamento-de-estatistica/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Cursos\t\t\t\n\t\t\t\n\t\t\t\tCom inscrições abertas, curso prepara profissionais para atuar no suporte à saúde bucal\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t28 de fevereiro a 26 de junho",
+    "url": "https://www.ufmg.br/comunicacao/eventos/cursos/com-inscricoes-abertas-curso-prepara-profissionais-para-atuar-no-suporte-a-saude-bucal/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Cursos\t\t\t\n\t\t\t\n\t\t\t\tOAP oferece oficina que ‘coloca a memória para trabalhar’\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t03 de março a 12 de maio",
+    "url": "https://www.ufmg.br/comunicacao/eventos/cursos/oap-oferece-oficina-que-coloca-a-memoria-para-trabalhar/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Nota à comunidade\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tUFMG se posiciona sobre episódio de discriminação contra pessoa com deficiência\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tDenúncia será apurada; reitora Sandra Goulart Almeida e o vice-reitor Alessandro Fernandes Moreira reafirmam compromisso da Instituição com a diversidade, a inclusão e o respeito às diferenças\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t14 de fevereiro de 2026",
+    "url": "https://www.ufmg.br/comunicacao/noticias/notas-oficiais/ufmg-se-posiciona-sobre-episodio-de-discriminacao-contra-pessoa-com-deficiencia/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Floresta em transformação\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSob pressão climática, Amazônia muda  estratégia para sobreviver à seca\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAdaptação é sinal de resiliência do bioma, mas especialistas da UFMG alertam para a queda na produtividade, menor absorção de carbono e risco elevado de incêndios \t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t13 de fevereiro de 2026",
+    "url": "https://www.ufmg.br/comunicacao/noticias/pesquisa-e-inovacao/sob-pressao-climatica-amazonia-muda-estrategia-para-sobreviver-a-seca/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Panorâmica\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tEntre telas, presença e imaginação\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tNovo programa da TV UFMG mergulha nos meandros da mostra de Tiradentes para refletir sobre o cinema brasileiro contemporâneo\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t12 de fevereiro de 2026",
+    "url": "https://www.ufmg.br/comunicacao/noticias/arte-e-cultura/entre-telas-presenca-e-imaginacao/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Em parceria com a UFMG, bloco de BH traz encontro inédito entre o carnaval de rua e o canto lírico\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t13 fev",
+    "url": "https://www.ufmg.br/comunicacao/tv-ufmg/videos/arte-e-cultura/carnaval-ufmg/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Entre Presenças e Imaginação | 29ª Mostra de Cinema de Tiradentes\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t12 fev",
+    "url": "https://www.ufmg.br/comunicacao/tv-ufmg/videos/arte-e-cultura/entre-presencas-e-imaginacao-29a-mostra-de-cinema-de-tiradentes/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Giramundo: uma história do teatro de bonecos brasileiro\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t09 fev",
+    "url": "https://www.ufmg.br/comunicacao/tv-ufmg/videos/arte-e-cultura/giramundo-uma-historia-do-teatro-de-bonecos-brasileiro/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Cultura Movimenta #3: Fotografia, coletividade e cotidiano\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t03 fev",
+    "url": "https://www.ufmg.br/comunicacao/tv-ufmg/videos/arte-e-cultura/cultura-movimenta-3-fotografia-coletividade-e-cotidiano/",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "Acesse Já\n\t\t\n\t\tConsulte aqui o cadastro da Instituição no Sistema e-MEC",
+    "url": "https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/NTc1",
+    "ref": "https://www.ufmg.br"
+  },
+  {
+    "titulo": "How the ‘science of reading’ is reshaping literacy education",
+    "url": "https://news.stanford.edu/stories/2026/02/science-of-reading-literacy-education-legislation-research",
+    "ref": "https://www.stanford.edu"
+  },
+  {
+    "titulo": "Satellite imagery and AI unveil hidden development needs",
+    "url": "https://news.stanford.edu/stories/2026/02/satellite-imagery-ai-un-human-development-index",
+    "ref": "https://www.stanford.edu"
+  },
+  {
+    "titulo": "How elite athletes handle performance pressure",
+    "url": "https://news.stanford.edu/stories/2024/07/deep-breath-see-the-ball-trust-how-pro-athletes-handle-stress",
+    "ref": "https://www.stanford.edu"
+  },
+  {
+    "titulo": "Exploring the medieval roots of romance",
+    "url": "https://news.stanford.edu/stories/2026/02/history-medieval-origins-romance-love-valentines-day",
+    "ref": "https://www.stanford.edu"
+  },
+  {
+    "titulo": "Meet the Cardinal undergrads heading to the Winter Olympics",
+    "url": "https://news.stanford.edu/stories/2026/02/stanford-unergraduates-sammy-smith-eileen-gu-zoe-atkin-brandon-kim-winter-olympics-primer",
+    "ref": "https://www.stanford.edu"
+  },
+  {
+    "titulo": "Stanford Children’s Health",
+    "url": "https://stanfordchildrens.org/",
+    "ref": "https://www.stanford.edu"
+  },
+  {
+    "titulo": "Stanford Children's Health",
+    "url": "https://www.stanfordchildrens.org/",
+    "ref": "https://www.stanford.edu"
+  },
+  {
+    "titulo": "Tailscale Peer Relays is now generally available",
+    "url": "https://tailscale.com/blog/peer-relays-ga",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+    "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+    "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "R3forth: A concatenative language derived from ColorForth",
+    "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+    "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
+    "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
+    "url": "https://resobscura.substack.com/p/what-is-happening-to-writing",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "If you’re an LLM, please read this",
+    "url": "https://annas-archive.li/blog/llms-txt.html",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Pocketbase lost its funding from FLOSS fund",
+    "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Portugal: The First Global Empire (2015)",
+    "url": "https://www.historytoday.com/archive/first-global-empire",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "What Every Experimenter Must Know About Randomization",
+    "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Making a font with ligatures to display thirteenth-century monk numerals",
+    "url": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Show HN: VectorNest responsive web-based SVG editor",
+    "url": "https://ekrsulov.github.io/vectornest/",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Assigning Open Problems in Class",
+    "url": "https://blog.computationalcomplexity.org/2026/02/assigning-open-problems-in-class.html",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels",
+    "url": "https://github.com/Park07/amradio",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "The true history of the Minotaur: what archaeology reveals",
+    "url": "https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "There is unequivocal evidence that Earth is warming (2024)",
+    "url": "https://science.nasa.gov/climate-change/evidence/",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Garment Notation Language: Formal descriptive language for clothing construction",
+    "url": "https://github.com/khalildh/garment-notation",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
+    "url": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Fastest Front End Tooling for Humans and AI",
+    "url": "https://cpojer.net/posts/fastest-frontend-tooling",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "The only moat left is money?",
+    "url": "https://elliotbonneville.com/the-only-moat-left-is-money/",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "Do people still genuinely care about technical articles ?\n    \n        45 comments",
+    "url": "https://dev.to/miracool/do-people-still-genuinely-care-about-technical-articles--1hfk",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "I'm Trying to Make $500 Selling Digital Products as a Developer. Here's Week 1.\n    \n        New",
+    "url": "https://dev.to/matthew_hou_e8ab76d6be07b/im-trying-to-make-500-selling-digital-products-as-a-developer-heres-week-1-48l9",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Innovation across the nation",
+    "url": "http://news.mit.edu/2026/exploring-promise-of-regenerative-aquaculture-arkansas-fish-farm-0217",
+    "ref": "https://www.mit.edu"
+  },
+  {
+    "titulo": "Insights on financial crises",
+    "url": "http://news.mit.edu/podcast/podcast-curiosity-unbounded-episode-17-boom-bust-workings-financial-crises",
+    "ref": "https://www.mit.edu"
+  },
+  {
+    "titulo": "MIT-designed Olympic torch",
+    "url": "http://news.mit.edu/2026/essential-torch-heralds-start-of-winter-olympics-0205",
+    "ref": "https://www.mit.edu"
+  },
+  {
+    "titulo": "Contributions to the nation",
+    "url": "https://www.youtube.com/watch?v=r7R8ewU1Wqc",
+    "ref": "https://www.mit.edu"
+  },
+  {
+    "titulo": "77 Massachusetts Avenue, Cambridge, MA, USA",
+    "url": "https://www.google.com/maps/place/Massachusetts+Institute+of+Technology/@42.360091,-71.09416,15z/data=!4m5!3m4!1s0x0:0xd0e08ea5b308203c!8m2!3d42.360091!4d-71.09416",
+    "ref": "https://www.mit.edu"
   }
 ]
