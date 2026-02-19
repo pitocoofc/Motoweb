@@ -1808,5 +1808,60 @@
     "titulo": "Building a Slitherlink Puzzle Engine in Rust + WebAssembly",
     "url": "https://dev.to/ansonchan/building-a-slitherlink-puzzle-engine-in-rust-webassembly-3ebc",
     "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Inverse of Carathéodory function is measurable?",
+    "url": "https://mathoverflow.net/questions/508280/inverse-of-carath%c3%a9odory-function-is-measurable",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "🔢 Beginner-Friendly Guide 'Count Binary Substrings' - Problem 696 (C++, Python, JavaScript)",
+    "url": "https://dev.to/om_shree_0709/beginner-friendly-guide-count-binary-substrings-problem-696-c-python-javascript-4dlk",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Python cast byte array to C void pointer",
+    "url": "https://stackoverflow.com/questions/79890659/python-cast-byte-array-to-c-void-pointer",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Does a corpse keep its damage immunities?",
+    "url": "https://rpg.stackexchange.com/questions/218795/does-a-corpse-keep-its-damage-immunities",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "\"イカのナントカ\"... what kind of expression is this?",
+    "url": "https://japanese.stackexchange.com/questions/111765/%e3%82%a4%e3%82%ab%e3%81%ae%e3%83%8a%e3%83%b3%e3%83%88%e3%82%ab-what-kind-of-expression-is-this",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Is it legal for the military to send a soldier on a mission that will lead almost surely to their death?",
+    "url": "https://law.stackexchange.com/questions/114168/is-it-legal-for-the-military-to-send-a-soldier-on-a-mission-that-will-lead-almos",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Should we use have or has in this case?",
+    "url": "https://ell.stackexchange.com/questions/374024/should-we-use-have-or-has-in-this-case",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Is it realistic for a fighter jet pilot to have their fighter ram a commercial airliner, and escape via their ejection seat?",
+    "url": "https://aviation.stackexchange.com/questions/114974/is-it-realistic-for-a-fighter-jet-pilot-to-have-their-fighter-ram-a-commercial-a",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Derived formulation of étale Poincaré duality",
+    "url": "https://mathoverflow.net/questions/508270/derived-formulation-of-%c3%a9tale-poincar%c3%a9-duality",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Why would an extraterrestrial ecosystem without predators have evolved?",
+    "url": "https://worldbuilding.stackexchange.com/questions/272679/why-would-an-extraterrestrial-ecosystem-without-predators-have-evolved",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "How to use -dialect sqlite -sql so empty array values aren't dropped from properties?",
+    "url": "https://gis.stackexchange.com/questions/500008/how-to-use-dialect-sqlite-sql-so-empty-array-values-arent-dropped-from-proper",
+    "ref": "https://stackoverflow.com"
   }
 ]
