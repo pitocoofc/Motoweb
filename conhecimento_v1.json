@@ -1723,5 +1723,90 @@
     "titulo": "Dragon Adventure cards interaction with Acolyte of Bahamut",
     "url": "https://boardgames.stackexchange.com/questions/64401/dragon-adventure-cards-interaction-with-acolyte-of-bahamut",
     "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "What do philosophers consider to be natural?",
+    "url": "https://philosophy.stackexchange.com/questions/136339/what-do-philosophers-consider-to-be-natural",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "”Would you like a/some meat?“ Is using \"a\" an exception to the rule?",
+    "url": "https://english.stackexchange.com/questions/639020/would-you-like-a-some-meat-is-using-a-an-exception-to-the-rule",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Regular delays in sent (not received) pings",
+    "url": "https://serverfault.com/questions/1198205/regular-delays-in-sent-not-received-pings",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Searching for a SF short story: in a space war, one side develops technology to stretch space like a rubber sheet in all directions around its ships",
+    "url": "https://scifi.stackexchange.com/questions/303305/searching-for-a-sf-short-story-in-a-space-war-one-side-develops-technology-to",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Who are the thirteen dogs?",
+    "url": "https://gaming.stackexchange.com/questions/417874/who-are-the-thirteen-dogs",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "How is the expectation of spin related to the eigenvector of the spin operator?",
+    "url": "https://physics.stackexchange.com/questions/869253/how-is-the-expectation-of-spin-related-to-the-eigenvector-of-the-spin-operator",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Can a coin be 'completely' unclippable?",
+    "url": "https://worldbuilding.stackexchange.com/questions/272701/can-a-coin-be-completely-unclippable",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Can the beat frequency of two slightly different tones cause a room to resonate?",
+    "url": "https://physics.stackexchange.com/questions/869265/can-the-beat-frequency-of-two-slightly-different-tones-cause-a-room-to-resonate",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "GPL-3.0 from choosingalicense.com feels as if it's missing parts",
+    "url": "https://opensource.stackexchange.com/questions/15708/gpl-3-0-from-choosingalicense-com-feels-as-if-its-missing-parts",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Issue attempting \"fullwidth\" image on document",
+    "url": "https://tex.stackexchange.com/questions/759872/issue-attempting-fullwidth-image-on-document",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Microsoft offers guide to pirating Harry Potter series for LLM training",
+    "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
+    "ref": "https://news.ycombinator.com"
+  },
+  {
+    "titulo": "What is the name of this polyhedron formed from six squares and eight equilateral triangles?",
+    "url": "https://math.stackexchange.com/questions/5125063/what-is-the-name-of-this-polyhedron-formed-from-six-squares-and-eight-equilatera",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Are US passport holders required to keep passports on their person, when in Canada?",
+    "url": "https://travel.stackexchange.com/questions/203286/are-us-passport-holders-required-to-keep-passports-on-their-person-when-in-cana",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Book about 3 main characters who gain powers from injection from crazy scientist",
+    "url": "https://scifi.stackexchange.com/questions/303330/book-about-3-main-characters-who-gain-powers-from-injection-from-crazy-scientist",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "Writing your own Wikipedia biography?",
+    "url": "https://academia.stackexchange.com/questions/225970/writing-your-own-wikipedia-biography",
+    "ref": "https://stackoverflow.com"
+  },
+  {
+    "titulo": "How I Built a Synthetic Goat Scream Pipeline (And the Tools Along the Way)",
+    "url": "https://dev.to/aimatey/how-i-built-a-synthetic-goat-scream-pipeline-and-the-tools-along-the-way-1aln",
+    "ref": "https://dev.to"
+  },
+  {
+    "titulo": "Building a Slitherlink Puzzle Engine in Rust + WebAssembly",
+    "url": "https://dev.to/ansonchan/building-a-slitherlink-puzzle-engine-in-rust-webassembly-3ebc",
+    "ref": "https://dev.to"
   }
 ]
